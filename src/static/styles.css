@@ -1,0 +1,85 @@
+.settings-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.settings-section {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.widget ul {
+  list-style: none;
+  padding: 0;
+}
+
+.widget ul li {
+  margin: 10px 0;
+}
+
+.widget ul li a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.widget ul li a:hover {
+  text-decoration: underline;
+}
+
+.bookmark-entry {
+  margin-bottom: 20px;
+}
+
+.bookmark {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.config-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+}
