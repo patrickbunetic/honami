@@ -5,4 +5,10 @@ As it matures, this will be refactored out, but it provides a quick starting poi
 * About
 This is a modular, customizable server. Support for a simple-but-robust plugin authoring system will be added. Currently, the project is written in SBCL, but may be ported to another language.
 
-
+* TODO Features
+- [X] Authentication
+  - [ ] Refresh token authentication
+- [ ] Customizable authentication
+- [ ] DAV support (CalDAV, CardDAV in particular)
+- [ ] Plugin support with design blueprint
+- [ ] ... and more!
