@@ -1,6 +1,8 @@
-* About
-This is a modular, customizable server. Support for a simple-but-robust plugin authoring system will be added. For now, the project is written in SBCL, but may be ported to another language.
-
 * Notice
-*For now, this project contains code which is AI-generated*
+*For now, this project contains code which is AI-generated.* \\
 As it matures, this will be refactored out, but it provides a quick starting point, particularly in relation to html/css/js.
+
+* About
+This is a modular, customizable server. Support for a simple-but-robust plugin authoring system will be added. Currently, the project is written in SBCL, but may be ported to another language.
+
+
